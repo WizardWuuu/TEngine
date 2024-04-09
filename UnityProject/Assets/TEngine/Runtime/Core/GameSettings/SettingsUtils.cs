@@ -187,6 +187,11 @@ public static class SettingsUtils
 
             case RuntimePlatform.Android:
                 return "Android";
+            
+            // Add by WizardWuuu
+            case RuntimePlatform.WebGLPlayer:
+                return "WebGL";
+            // Add end.
             default:
                 throw new NotSupportedException($"Platform '{Application.platform.ToString()}' is not supported.");
         }

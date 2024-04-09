@@ -79,11 +79,10 @@ MonoBehaviour:
     - uiElementRegex: m_canvasGroup
       componentName: CanvasGroup
   m_BybridCLRCustomGlobalSettings:
-    m_Enable: 1
     HotUpdateAssemblies:
     - GameBase.dll
-    - GameProto.dll
     - GameLogic.dll
+    - GameProto.dll
     AOTMetaAssemblies:
     - mscorlib.dll
     - System.dll

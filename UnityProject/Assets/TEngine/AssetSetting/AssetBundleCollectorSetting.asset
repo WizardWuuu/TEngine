@@ -149,6 +149,14 @@ MonoBehaviour:
         FilterRuleName: CollectShaderVariants
         AssetTags: 
         UserData: 
+      - CollectPath: Assets/MyShaderVariants.shadervariants
+        CollectorGUID: ed73473d45972af4cb7f1b0ec028fdbc
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 
     - GroupName: UI
       GroupDesc: "UI\u9762\u677F"
       AssetTags: UI
