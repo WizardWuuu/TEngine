@@ -5,7 +5,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "410bb9b542664e9288588b5c23d3300e01e5936e"
+      "hash": "2697eb5a90cc44f226cd4ca4ad7ea1259ab38f56"
     },
     "com.cysharp.unitask": {
       "version": "file:UniTask",
@@ -72,7 +72,7 @@
       "url": "https://packages.unity.cn"
     },
     "com.unity.ide.rider": {
-      "version": "3.0.27",
+      "version": "3.0.28",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -194,7 +194,7 @@
       "url": "https://packages.unity.cn"
     },
     "com.unity.textmeshpro": {
-      "version": "3.0.6",
+      "version": "3.0.8",
       "depth": 0,
       "source": "registry",
       "dependencies": {
