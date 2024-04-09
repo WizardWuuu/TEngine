@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.Reflection;
+using Cysharp.Threading.Tasks;
 using GameBase;
 using TEngine;
 
@@ -37,7 +38,12 @@ public partial class GameApp:Singleton<GameApp>
     /// </summary>
     private void StartGameLogic()
     {
-        
+        GotoHome().Forget();
+    }
+
+    private async UniTaskVoid GotoHome()
+    {
+        await GameModule.Scene.LoadScene("SceneHome");
     }
 
     /// <summary>
