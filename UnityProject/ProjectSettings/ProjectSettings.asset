@@ -738,7 +738,7 @@ PlayerSettings:
   webGLTemplate: APPLICATION:Default
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
-  webGLCompressionFormat: 0
+  webGLCompressionFormat: 2
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
@@ -761,7 +761,7 @@ PlayerSettings:
     Stadia: TextMeshPro
     Standalone: ODIN_INSPECTOR;ODIN_INSPECTOR_3;ODIN_INSPECTOR_3_1;ODIN_VALIDATOR;ODIN_VALIDATOR_3_1;ENABLE_LOG;TextMeshPro;ENABLE_HYBRIDCLR
     VisionOS: TextMeshPro
-    WebGL: ENABLE_LOG;TextMeshPro;ENABLE_HYBRIDCLR
+    WebGL: ENABLE_LOG;TextMeshPro;ENABLE_HYBRIDCLR;ODIN_VALIDATOR;ODIN_VALIDATOR_3_1;ODIN_INSPECTOR;ODIN_INSPECTOR_3;ODIN_INSPECTOR_3_1
     Windows Store Apps: ENABLE_LOG;ENABLE_HYBRIDCLR
     XboxOne: TextMeshPro
     iPhone: ENABLE_LOG;TextMeshPro;ENABLE_HYBRIDCLR
