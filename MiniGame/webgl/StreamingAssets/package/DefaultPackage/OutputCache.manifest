@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2974234862
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_assetraw_uiraw_atlas_common.bundle
+      Dependencies: {}
+    Info_1:
+      Name: assets_assetraw_configs.bundle
+      Dependencies: {}
+    Info_2:
+      Name: assets_assetraw_dll.bundle
+      Dependencies: {}
+    Info_3:
+      Name: assets_assetraw_scenes_scenehome.bundle
+      Dependencies: {}
+    Info_4:
+      Name: unityshaders.bundle
+      Dependencies: {}
+    Info_5:
+      Name: assets_assetraw_fonts.bundle
+      Dependencies: {}

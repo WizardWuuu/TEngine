@@ -1,0 +1,250 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2024-04-10-1235",
+    "AssetList": [
+        {
+            "Address": "blue_button",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/blue_button.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 0
+        },
+        {
+            "Address": "red_button",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/red_button.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 0
+        },
+        {
+            "Address": "white_background",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/white_background.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 0
+        },
+        {
+            "Address": "white_button",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/white_button.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UIRaw"
+            ],
+            "BundleID": 0
+        },
+        {
+            "Address": "about",
+            "AssetPath": "Assets/AssetRaw/Configs/about.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Configs",
+                "WEBGL_PRELOAD"
+            ],
+            "BundleID": 1
+        },
+        {
+            "Address": "GameBase.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameBase.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 2
+        },
+        {
+            "Address": "GameLogic.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameLogic.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 2
+        },
+        {
+            "Address": "GameProto.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameProto.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 2
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/mscorlib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 2
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/System.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 2
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/System.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 2
+        },
+        {
+            "Address": "TEngine.Runtime.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/TEngine.Runtime.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 2
+        },
+        {
+            "Address": "UniTask.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UniTask.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 2
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 2
+        },
+        {
+            "Address": "YooAsset.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/YooAsset.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "DLL"
+            ],
+            "BundleID": 2
+        },
+        {
+            "Address": "SceneHome",
+            "AssetPath": "Assets/AssetRaw/Scenes/SceneHome.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Scenes"
+            ],
+            "BundleID": 3
+        },
+        {
+            "Address": "MyShaderVariants",
+            "AssetPath": "Assets/AssetRaw/Shaders/MyShaderVariants.shadervariants",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Shaders"
+            ],
+            "BundleID": 4
+        },
+        {
+            "Address": "STSONG",
+            "AssetPath": "Assets/AssetRaw/Fonts/STSONG.TTF",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Fonts"
+            ],
+            "BundleID": 5
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_assetraw_uiraw_atlas_common.bundle",
+            "UnityCRC": 3385234053,
+            "FileHash": "1b8d051e2a5ee88889b1d60c72034aea",
+            "FileCRC": "1a852655",
+            "FileSize": 14808,
+            "Encrypted": false,
+            "Tags": [
+                "UIRaw"
+            ],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_configs.bundle",
+            "UnityCRC": 3771331652,
+            "FileHash": "a732216e6e6d86cf610f77cdcea2316c",
+            "FileCRC": "907a3df2",
+            "FileSize": 1219,
+            "Encrypted": false,
+            "Tags": [
+                "Configs",
+                "WEBGL_PRELOAD"
+            ],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_dll.bundle",
+            "UnityCRC": 225765662,
+            "FileHash": "f6b5bafc650115d83e9e58db2be7de4b",
+            "FileCRC": "ee96b7af",
+            "FileSize": 2591643,
+            "Encrypted": false,
+            "Tags": [
+                "DLL"
+            ],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_scenes_scenehome.bundle",
+            "UnityCRC": 1639610724,
+            "FileHash": "2027df36ecf371de3bf9213ba699f1f8",
+            "FileCRC": "93c2428f",
+            "FileSize": 48136,
+            "Encrypted": false,
+            "Tags": [
+                "Scenes"
+            ],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "UnityCRC": 1217103613,
+            "FileHash": "8c1d2d0cb2380bce99ef0a6d9c68bde3",
+            "FileCRC": "3deee8ea",
+            "FileSize": 27630,
+            "Encrypted": false,
+            "Tags": [
+                "Shaders"
+            ],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_assetraw_fonts.bundle",
+            "UnityCRC": 2684465013,
+            "FileHash": "93976736dff2cc9315b91309892b6e5d",
+            "FileCRC": "4640f462",
+            "FileSize": 8238587,
+            "Encrypted": false,
+            "Tags": [
+                "Fonts"
+            ],
+            "DependIDs": []
+        }
+    ]
+}

@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: MiniGameConfig
   m_EditorClassIdentifier: 
   ProjectConf:
-    projectName: 
-    Appid: 
-    CDN: 
+    projectName: "\u732B\u54AA\u4E94\u5B50\u68CB"
+    Appid: wx355444a511670048
+    CDN: http://192.168.10.7:8088
     assetLoadType: 0
     compressDataPackage: 0
     VideoUrl: 
-    DST: 
+    DST: E:/Workspace/Github/TEngine_unity2022/MiniGame
     StreamCDN: 
     bundleHashLength: 32
     bundlePathIdentifier: StreamingAssets;
